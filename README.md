@@ -16,9 +16,4 @@ The proposed project aims to develop an application for object and lane detectio
 
 
 **Data Plan:**
-<<<<<<< HEAD
-Open source datasets from KITTI will be used for training object and lane detection model.
-=======
-Open source datasets from KITTI, Robofllow or Apollo will be used for training object and lane detection models.
-
->>>>>>> 9a379fb6327fa2e94209987eccb5e47c61ea393b
+Open source datasets from KITTI will be used for training object and lane detection model
