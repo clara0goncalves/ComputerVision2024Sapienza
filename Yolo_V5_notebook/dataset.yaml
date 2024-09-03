@@ -1,0 +1,20 @@
+
+train: /content/drive/MyDrive/training/images/train
+val: /content/drive/MyDrive/training/images/val
+
+# number of classes
+nc: 4
+
+# class names
+names: ['Van', 'Cyclist', 'Pedestrian', 'Car']
+
+
+#names:
+#  0: Van
+#  1: Cyclist
+#  2: Pedestrian
+#  3: Car
+
+
+
+
