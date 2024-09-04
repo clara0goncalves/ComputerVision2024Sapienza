@@ -1,9 +1,9 @@
 
-train: /content/drive/MyDrive/computer_vision/dataset/train
-val: /content/drive/MyDrive/computer_vision/dataset/val
+train: /content/drive/MyDrive/dataset/train
+val: /content/drive/MyDrive/dataset/val
 
 # number of classes
-nc: 5
+nc: 4
 
 # class names
 names: ['Van', 'Cyclist', 'Pedestrian', 'Car', 'Truck']
