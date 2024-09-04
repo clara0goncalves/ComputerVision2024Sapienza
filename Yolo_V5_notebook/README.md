@@ -6,15 +6,8 @@ The dataset present consists of images and corresponding labels. It is structure
 
 ## Dataset Components
 
-### 1. Images
-
-- **Location**: [Download Images](......)
-- **Description**: Contains image files used for training and evaluation.
-
-### 2. Labels
-
-- **Location**: [Download Labels](......)
-- **Description**: Contains label files corresponding to the images. These files provide the annotations or categories for the images.
+- **Location**: [Download Dataset](https://drive.google.com/drive/folders/1SZ41-QezYZJyZIMz5J02jUWYiR489Zkt?usp=sharing)
+- **Description**: Contains all dataset files used for training and evaluation.
 
 ### 3. Dataset Configuration
 
