@@ -1,0 +1,63 @@
+Metrics for /content/destilation_prunned_quantized_fixed.onnx:
+MACs: 17437473720
+FLOPs: 34874947440
+Inference Time (s): 0.28357410430908203
+Memory Usage (bytes): 283820032
+Carbon Footprint (kg CO2): 5.6714820861816406e-05
+EER: 17437.47372
+
+Metrics for /content/destilation_prunning.onnx:
+MACs: 17437372800
+FLOPs: 34874745600
+Inference Time (s): 0.2864656448364258
+Memory Usage (bytes): 336805888
+Carbon Footprint (kg CO2): 5.7293128967285156e-05
+EER: 17437.3728
+
+Metrics for /content/destilled_quantized_fixed.onnx:
+MACs: 17437473720
+FLOPs: 34874947440
+Inference Time (s): 0.2929575443267822
+Memory Usage (bytes): 336805888
+Carbon Footprint (kg CO2): 5.859150886535645e-05
+EER: 17437.47372
+
+Metrics for /content/knoledge_destilled.onnx:
+MACs: 17437372800
+FLOPs: 34874745600
+Inference Time (s): 0.28441858291625977
+Memory Usage (bytes): 339349504
+Carbon Footprint (kg CO2): 5.6883716583251955e-05
+EER: 17437.3728
+
+Metrics for /content/model_pruned.onnx:
+MACs: 17437372800
+FLOPs: 34874745600
+Inference Time (s): 0.28441667556762695
+Memory Usage (bytes): 339349504
+Carbon Footprint (kg CO2): 5.6883335113525394e-05
+EER: 17437.3728
+
+Metrics for /content/model_pruned_quantized_fixed.onnx:
+MACs: 17437473720
+FLOPs: 34874947440
+Inference Time (s): 0.27887749671936035
+Memory Usage (bytes): 339349504
+Carbon Footprint (kg CO2): 5.577549934387207e-05
+EER: 17437.47372
+
+Metrics for /content/quantized_model_fixed.onnx:
+MACs: 17437473720
+FLOPs: 34874947440
+Inference Time (s): 0.2986941337585449
+Memory Usage (bytes): 339349504
+Carbon Footprint (kg CO2): 5.973882675170899e-05
+EER: 17437.47372
+
+Metrics for /content/trained_model.onnx:
+MACs: 17437372800
+FLOPs: 34874745600
+Inference Time (s): 0.2985053062438965
+Memory Usage (bytes): 339349504
+Carbon Footprint (kg CO2): 5.97010612487793e-05
+EER: 17437.3728
