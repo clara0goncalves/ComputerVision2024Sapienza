@@ -10,7 +10,7 @@ The proposed project aims to develop an application for object and lane detectio
 
 - Model Optimization.
 - Algorithmic Efficiency.
-- Data Augmentation and Preprocessing.
+- Preprocessing.
 - Hybrid Approaches between deep learning and computer vision approaches.
 
 
